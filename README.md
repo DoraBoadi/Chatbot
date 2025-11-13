@@ -28,4 +28,5 @@ Note: Do not save your API key directly in the code if you want to keep it secur
 
 **4. Press Send to receive a response from the AI chatbot.**
 
-Interact with the chatbot as needed for assistance, information retrieval, or workflow support.
+**5. Interact with the chatbot as needed for assistance, information retrieval, or workflow support.**
+
